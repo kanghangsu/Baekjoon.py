@@ -19,7 +19,7 @@
 |  11  |          [시간 복잡도](https://www.acmicpc.net/step/53)          |    7    |  ✅  |
 |  12  |          [브루트 포스](https://www.acmicpc.net/step/22)          |    6    |  ✅  |
 |  13  |              [정렬](https://www.acmicpc.net/step/9)              |   11    |  ✅  |
-|  14  |           [집합과 맵](https://www.acmicpc.net/step/49)           |    8    |      |
+|  14  |           [집합과 맵](https://www.acmicpc.net/step/49)           |    8    |  ✅  |
 |  15  |      [약수, 배수와 소수 2](https://www.acmicpc.net/step/18)      |    9    |      |
 |  16  |         [스택, 큐, 덱](https://www.acmicpc.net/step/11)          |   11    |      |
 |  17  |   [\=\=\=\= 절취선 \=\=\=\=](https://www.acmicpc.net/step/57)    |    0    |      |
