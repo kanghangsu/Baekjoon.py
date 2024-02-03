@@ -3,7 +3,6 @@
 # Import the necessary modules
 from sys import stdin
 from sys import stdout
-from math import gcd
 
 input = stdin.readline
 print = stdout.write
